@@ -10,6 +10,6 @@ public class Ressource {
 	@RequestMapping
 	public String hello()
 	{
-		return "jenkins got notified ";
+		return "jenkins got notified again !!";
 	}
 }
